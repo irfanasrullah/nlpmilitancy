@@ -1,4 +1,4 @@
 # nlpmilitancy
-understanding natural language based on degree of militancy
+understanding degree of militancy based on natural language processing
 
 keywords: NLP, degree of militancy, betweeness centrality, deradicalization.
